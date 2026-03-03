@@ -1,0 +1,13 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>global_pop_2024_CN_1km_R2025A_v1</Description>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">27184.25</MDI>
+      <MDI key="STATISTICS_MEAN">318.11967888305</MDI>
+      <MDI key="STATISTICS_STDDEV">925.99708790726</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">35.89</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
